@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter_10", "Chapter_10\Ch
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Storing_String_inChar", "Storing_String_inChar\Storing_String_inChar.vcxproj", "{36DA264D-E399-4610-85B2-19FD8EFD5D58}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using_strstr_function_searching_array", "Using_strstr_function_searching_array\Using_strstr_function_searching_array.vcxproj", "{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{36DA264D-E399-4610-85B2-19FD8EFD5D58}.Release|x64.Build.0 = Release|x64
 		{36DA264D-E399-4610-85B2-19FD8EFD5D58}.Release|x86.ActiveCfg = Release|Win32
 		{36DA264D-E399-4610-85B2-19FD8EFD5D58}.Release|x86.Build.0 = Release|Win32
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Debug|x64.ActiveCfg = Debug|x64
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Debug|x64.Build.0 = Debug|x64
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Debug|x86.Build.0 = Debug|Win32
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Release|x64.ActiveCfg = Release|x64
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Release|x64.Build.0 = Release|x64
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Release|x86.ActiveCfg = Release|Win32
+		{29632ACC-E4A2-49EC-BDD3-321DCBD782BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
