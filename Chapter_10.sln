@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cutting_String", "Cutting_S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Character_counter", "Character_counter\Character_counter.vcxproj", "{AE76EC01-331E-42E6-82BC-CA582260BDDA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Formatting_numbers_dollarSign", "Formatting_numbers_dollarSign\Formatting_numbers_dollarSign.vcxproj", "{A72B84D7-1AD1-466A-AA52-665971B1B009}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{AE76EC01-331E-42E6-82BC-CA582260BDDA}.Release|x64.Build.0 = Release|x64
 		{AE76EC01-331E-42E6-82BC-CA582260BDDA}.Release|x86.ActiveCfg = Release|Win32
 		{AE76EC01-331E-42E6-82BC-CA582260BDDA}.Release|x86.Build.0 = Release|Win32
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Debug|x64.ActiveCfg = Debug|x64
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Debug|x64.Build.0 = Debug|x64
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Debug|x86.ActiveCfg = Debug|Win32
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Debug|x86.Build.0 = Debug|Win32
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Release|x64.ActiveCfg = Release|x64
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Release|x64.Build.0 = Release|x64
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Release|x86.ActiveCfg = Release|Win32
+		{A72B84D7-1AD1-466A-AA52-665971B1B009}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
